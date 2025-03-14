@@ -1,7 +1,7 @@
 # sivertdotfiles
 Her finner du alle mine config-filer til diverse program, "rice-en" min.
 
-!(archconfigV2.jpg)
+![](archconfigV2.jpg)
 
 There are some fonts and such i have installed, for example:
 
