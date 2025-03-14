@@ -21,10 +21,5 @@ figlet -f smscript "good night"
 # figlet -f smslant "god morgen"
 # figlet -f smscript "god natt"
 
-export XDG_CONFIG_HOME=$HOME/.config
-
-# Created by `pipx` on 2025-03-12 17:11:53
-export PATH="$PATH:/home/sivert/.local/bin"
-
 # Starship
 eval "$(starship init bash)"
