@@ -1,10 +1,10 @@
 # sivertdotfiles
-Here you can find my configs for different programs, my arch linux and hyprland rice.
+Som du kan se, rice-en min på arch linux med hyprland
 
 ![](archconfigV2.jpg)
 
-There are some fonts and such i have installed, for example:
+en av fontene jeg har installert:
 
 ```sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji```
 
-I use the Hack Nerd Font for the most part, with noto as a fallback font.
+Jeg bruker i denne rice-en Hack Nerd Font og Noto som fallback og for rare emoji-ikoner og lignende
